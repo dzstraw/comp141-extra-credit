@@ -3,7 +3,7 @@
 mkdir output
 mv textfile.txt output
 cd output
-read textfile.txt > read.txt
+cat textfile.txt > read.txt
 pwd > pwd.txt
 ls > ls.txt
 cp textfile.txt copy.txt

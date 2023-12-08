@@ -1,0 +1,4 @@
+  PID TTY           TIME CMD
+  504 ttys000    0:00.48 -bash
+69829 ttys000    0:00.01 /bin/bash ./main.sh
+69838 ttys000    0:00.00 head -n 5

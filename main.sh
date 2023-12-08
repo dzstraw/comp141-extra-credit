@@ -11,7 +11,7 @@ todayDate() {
 
   date +'%d-%m-%y'
 }	
-todayDate > output.txt
+todayDate > date.txt
 wc -w textfile.txt > textcount.txt
 ps | head -n 5 > process.txt
 ifconfig | head -n 5 > netstat.txt
